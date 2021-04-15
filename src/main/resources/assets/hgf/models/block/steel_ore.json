@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hgf:blocks/steel_ore",
+    "particle": "hgf:blocks/steel_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "hgf",
+  "type": "minecraft:smelting",
+  "experience": 7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "hgf:steel_ore"
+  },
+  "result": {
+    "item": "hgf:steel_ingot"
+  }
+}

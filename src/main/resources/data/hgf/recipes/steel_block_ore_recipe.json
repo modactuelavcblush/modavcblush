@@ -1,0 +1,13 @@
+{
+  "group": "hgf",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hgf:steel_block"
+    }
+  ],
+  "result": {
+    "item": "hgf:steel_ingot",
+    "count": 9
+  }
+}
